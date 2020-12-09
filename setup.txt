@@ -1,0 +1,8 @@
+Por: Felipe Ríos López
+
+1. Descomprimir archivo.ZIP, ubicarlo en la carpeta wamp64/www o si usa XAMPP en xampp/htdocs
+2. Ejecutar en la carpeta taller1c php artisan migrate
+3. Para ejecutar el programa, php artisan serve en la carpeta taller1c.
+4. Ir a la dirección http://127.0.0.1:8000/meeting .
+5. Si es necesario modifique el archivo .env para acceder a la base de datos, configurando la ruta y el nombre
+6. Se puede navegar por toda la página con los botones "Show meeting" y "Create Meeting" ubicados en la esquina superior derecha
